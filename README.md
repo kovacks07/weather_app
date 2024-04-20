@@ -3,6 +3,9 @@
 Weather App
 This is a simple weather application built with React that allows users to check the weather for different cities.
 
+How to run 
+extract build folder provided with code .
+
 Features
 View current weather information including temperature, description, humidity, and wind speed.
 Search for cities and get their weather information.
