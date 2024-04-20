@@ -9,10 +9,10 @@ Search for cities and get their weather information.
 Dynamic background color based on weather conditions.
 
 Technologies Used
-React
-React Router
-Fetch API
-OpenWeatherMap API
+React,
+React Router,
+Fetch API,
+OpenWeatherMap API,
 
 
 Get an API key from OpenWeatherMap and replace "YOUR_API_KEY" in WeatherPage.js with your actual API key.
